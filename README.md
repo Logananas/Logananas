@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Logananas
-- 🌱 I’m currently learning ... HTML, Unity
+- 🌱 I’m currently learning HTML, Unity
 - 📫 How to reach me: you don't.
 - 😄 Pronouns: He/Him
 
